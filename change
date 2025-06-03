@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Thu, 22 May 2025 17:29:11 GMT
+Content-Type: application/json
+Connection: keep-alive
+Server: PWS/8.3.1.0.8
+X-Powered-By: PHP/8.1.31
+Cache-Control: no-cache, private
+Retry-After: 3600
+Access-Control-Allow-Origin: https://vfun.valofe.com
+Access-Control-Allow-Credentials: true
+Set-Cookie: L-Access-Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IlZBTE9GRS1WRlVOLUZVTk5ZLSFxd2VsZGkifQ.eyJ1c2VyX2lkIjoiNjk0ODY4MzAwMDAwMTQyNDQ0MzA3MjczNzk5MjI1IiwidXNlcl9zZXJpYWwiOiI2OTQ4NjgzIiwiaWF0IjoxNzQ3OTM0OTUwLCJtZW1iZXJfdHlwZSI6Imdvb2dsZSIsImRldmljZV9pZCI6IiIsImV4cCI6MTc0Nzk0MjE1MH0.BusgBHui0fZuI927pVn1qByRpZ4M0SR0ufJb__kbkRQ; expires=Thu, 22 May 2025 19:29:11 GMT; Max-Age=7200; path=/; domain=.valofe.com; secure; httponly; samesite=none
+Set-Cookie: L-Refresh-Token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6IlZBTE9GRS1WRlVOLUZVTk5ZLSFxd2VsZGkifQ.eyJ1c2VyX2lkIjoiNjk0ODY4MzAwMDAwMTQyNDQ0MzA3MjczNzk5MjI1IiwidXNlcl9zZXJpYWwiOiI2OTQ4NjgzIiwiaWF0IjoxNzQ3OTM0OTUwLCJtZW1iZXJfdHlwZSI6Imdvb2dsZSIsImRldmljZV9pZCI6IiJ9.dTSjXdZFSTS4vefynRH-E1GjSbtChsyYy--uZTQW52w; path=/; domain=.valofe.com; secure; httponly; samesite=none
+Set-Cookie: Device=web; path=/; domain=.valofe.com; secure; httponly; samesite=none
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Access-token, Refresh-token
+via: 1.1 PS-HND-01B6v58:8 (W), 1.1 jpiewuest71:7 (W)
+X-Px: ms jpiewuest71SIN, ms PS-HND-01B6v58HND(origin)
+x-ws-request-id: 682f5ee5_jpiewuest71_21340-18405
+Content-Length: 878
+
+{"result":1,"data":{"service_code":"vfun","sso_info_new":"7cSPn\/IxteuDAP9B95eKXRXvZYvi9TQeOCI5LWqTUf0\/y5YXWYfqWAo0scAf+7Vb","sso_info":"eyJpdiI6ImJUY0Z3cGZWNFpBbXlkQWxkdGxTV0E9PSIsInZhbHVlIjoiemozSW9tOFVKMDJZTmR6aTFVd1dNWWIzOHB6RFE3N2lISFk5WGxDYlpndmEvWFRqc3c0OGoxWUVibFBSaXpnamJ6UlJ5RXVud1Z0cWVIK21GbWhrWnJmOTV4cVh5djBIWnhRWGV6N2hXZkxwaHIrL21aamgyUVYvQ3hQZDZsNGQiLCJtYWMiOiIyYWQ0YjI1ZTAwODc1M2FjMDdhOTk3NjNhMTlkNjBjMjk2ODUzOWRmYjgwYjVhMjQ1ZWE5Nzc0ZGFkMmIyMmI4IiwidGFnIjoiIn0=","email":"gmlytogame@gmail.com","user_id":"694868300000142444307273799225","birthday":"19991111","check_email":"Y","gender":"M","country":"ID","auth":"8","SSOKey":"017db7b8c991b9e7102556f713558b29","member_type":"VALOFE","user_serial":"6948683","user_profile_key":"a33503330f3dda569ff4f35da136d355","network_country":"ID","nickName":"111swwwsww111","server_time":1747934950,"expired_at":1747942150}}
